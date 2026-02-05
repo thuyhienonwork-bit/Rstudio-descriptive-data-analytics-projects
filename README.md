@@ -1,25 +1,26 @@
-# data-analytics-projects
-**Context**
+# Descriptive Data Analytics Projects
+=============================================
+#Context
 
 Ogilvy, one of the world’s leading marketing and communications agencies, operates across multiple regions, managing diverse campaigns for international clients in sectors such as consumer goods, technology, finance, and lifestyle. These campaigns span a wide array of channels — digital, print, television, outdoor, and social media — and are tailored to different languages, audiences, and cultural markets.
 
 As the agency expands its global footprint, Ogilvy’s executive team and partner agencies require data-driven insights into how campaigns perform across regions. The firm collects a substantial amount of marketing performance data from ongoing and past campaigns. This includes information on campaign types, audience targets, acquisition costs, ROI, impressions, engagement scores, conversion rates, and others.
 
 My role as the newly appointed Marketing Campaign Manager for International Operations is to turn this data into a clear and comprehensive descriptive analytics report. This report will help Ogilvy’s leadership and regional partners understand what has already happened — summarizing historical campaign results, identifying performance variations, and spotlighting actionable insights to improve coordination and effectiveness in future marketing efforts.
-
-**Overview**
+=========================================================
+#Overview
 
 The main objective of this assignment is to apply Descriptive Analytics techniques to assist Ogilvy’s marketing campaign performance by using the external dataset and communicate global findings effectively to international stakeholders. My report should focus exclusively on describing and summarizing existing patterns, highlighting key metrics, and identifying differences or trends across markets, channels, and audiences.
 
 Overall, this requires me to conduct a structured analysis of a dataset by following three key sections: Data Preprocessing, Data Visualization, and Interpretation & Findings. my task is to clean the data, create insightful visualizations, and interpret my findings based on a critical analysis of the results.
-
-**Dataset**
+=========================================================
+#Dataset
 
 The Marketing Campaign Performance Dataset is a publicly available dataset sourced from Kaggle. Ogilvy has adopted this dataset for educational and analytical purposes to simulate real-world international marketing performance analysis.
 
 This dataset reflects a broad range of global marketing campaign activities — enabling Ogilvy’s analysts and international agencies to explore how campaigns perform across different regions, languages, channels, and audience segments. While anonymized and generalized, the dataset provides a realistic foundation for examining global campaign management dynamics and evaluating cross-market marketing efficiency.
-
-**Key Main Sections:**
+===========================================================
+#Key Main Sections
 
 **Data Pre-processing:**
 
