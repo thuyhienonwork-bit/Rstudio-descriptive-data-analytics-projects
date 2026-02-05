@@ -1,5 +1,6 @@
 # Descriptive Data Analytics Projects
 =============================================
+
 #Context
 
 Ogilvy, one of the world’s leading marketing and communications agencies, operates across multiple regions, managing diverse campaigns for international clients in sectors such as consumer goods, technology, finance, and lifestyle. These campaigns span a wide array of channels — digital, print, television, outdoor, and social media — and are tailored to different languages, audiences, and cultural markets.
@@ -7,6 +8,7 @@ Ogilvy, one of the world’s leading marketing and communications agencies, oper
 As the agency expands its global footprint, Ogilvy’s executive team and partner agencies require data-driven insights into how campaigns perform across regions. The firm collects a substantial amount of marketing performance data from ongoing and past campaigns. This includes information on campaign types, audience targets, acquisition costs, ROI, impressions, engagement scores, conversion rates, and others.
 
 My role as the newly appointed Marketing Campaign Manager for International Operations is to turn this data into a clear and comprehensive descriptive analytics report. This report will help Ogilvy’s leadership and regional partners understand what has already happened — summarizing historical campaign results, identifying performance variations, and spotlighting actionable insights to improve coordination and effectiveness in future marketing efforts.
+
 =========================================================
 #Overview
 
