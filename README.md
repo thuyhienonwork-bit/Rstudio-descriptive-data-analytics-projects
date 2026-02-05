@@ -19,8 +19,9 @@ The Marketing Campaign Performance Dataset is a publicly available dataset sourc
 
 This dataset reflects a broad range of global marketing campaign activities — enabling Ogilvy’s analysts and international agencies to explore how campaigns perform across different regions, languages, channels, and audience segments. While anonymized and generalized, the dataset provides a realistic foundation for examining global campaign management dynamics and evaluating cross-market marketing efficiency.
 
-**Key Main Sections:
-Data Pre-processing:**
+**Key Main Sections:**
+
+**Data Pre-processing:**
 
 Before conducting analysis, I first clean and prepare the dataset to ensure accuracy and reliability. This involves addressing errors, handling missing values, and managing outliers. Clearly document your approach, methods, and justifications for the steps you take.
 
